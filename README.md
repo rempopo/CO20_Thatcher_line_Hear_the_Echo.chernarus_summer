@@ -1,7 +1,7 @@
-# {Имя миссии}				CO45_Za_Wolnosc.eden
-Краткое описание миссии			Polish partisans retake a small town from Bundeswehr
+# {Имя миссии}				CO20_Thatcher_line_Hear_the_Echo.chernarus_summer
+Краткое описание миссии			Британские САСовцы ловят чехов
 
-<img src='{Image URL}' />		(опционально - overview картинка из репозитории миссии, доступна по правому клику - Копировать URL картинки)
+<img src='https://github.com/rempopo/CO20_Thatcher_line_Hear_the_Echo.chernarus_summer/blob/main/overview.jpg' />		
 
 ### Version: {Версия}			1A
 
