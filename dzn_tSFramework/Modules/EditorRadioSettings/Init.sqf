@@ -11,7 +11,7 @@ if (isServer) then {
 		private _isolated		= if ([typeOf _v, "tf_hasLRRadio"] call TFAR_fnc_getConfigProperty > 0 && !tSF_ERS_OverrideIsolatedConfigValue) then {
 			[typeOf _v, "tf_isolatedAmount"] call TFAR_fnc_getConfigProperty
 		} else {
-			_config select 3;	
+			_config select 3	
 		};
 		
 		_v setVariable ["tf_side", _side, true];

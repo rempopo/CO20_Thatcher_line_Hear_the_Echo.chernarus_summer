@@ -16,5 +16,6 @@ A "Bat-1 Squad Leader@Bat-1"				TO "kit_uk_sas_sl"	 			KIT
 , A "Grenadier"								TO "kit_uk_sas_gr"				KIT
 , A "BLUE - FTL"							TO "kit_uk_sas_ftl"				KIT
 , A "RED - FTL"								TO "kit_uk_sas_ftl"				KIT
-, A "Pilot"									TO "kit_uk_sas_pilot"			KIT
-, A "Gunner"								TO "kit_uk_sas_pilot"			KIT
+, A "Pilot@Soprano-1"						TO "kit_uk_sas_pilot"			KIT
+, A "Pilot@Soprano-2"						TO "kit_uk_sas_pilot"			KIT
+

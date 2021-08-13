@@ -150,6 +150,7 @@ kit_cz_pr_ar = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",3],["PRIMARY MAG",2]]],
 	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",1],["rhs_mag_m67",2],["SmokeShell",1],["PRIMARY MAG",8]]]
+	,["<IDENTITY >>", ["GreekHead_A3_01", "WhiteHead_18", "WhiteHead_20", "WhiteHead_22", "WhiteHead_26", "WhiteHead_27", "RussianHead_1"], ["cup_d_male04_cz_acr","cup_d_male01_cz_acr","cup_d_male02_cz_acr","cup_d_male03_cz_acr","cup_d_male05_cz_acr"], ["Marcel Bartoš","Vítězslav Tobiška"]]
 ];
 
 kit_cz_pr_r = [
@@ -161,6 +162,7 @@ kit_cz_pr_r = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["CUP_HandGrenade_M67",3],["PRIMARY MAG",5]]],
 	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",5],["HANDGUN MAG",1]]]
+	,["<IDENTITY >>", ["GreekHead_A3_01", "WhiteHead_18", "WhiteHead_20", "WhiteHead_22", "WhiteHead_26", "WhiteHead_27", "RussianHead_1"], ["cup_d_male04_cz_acr","cup_d_male01_cz_acr","cup_d_male02_cz_acr","cup_d_male03_cz_acr","cup_d_male05_cz_acr"], ["Marcel Bartoš","Vítězslav Tobiška"]]
 ];
 
 kit_cz_pr_gr = [
@@ -172,6 +174,7 @@ kit_cz_pr_gr = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["PRIMARY MAG",7],["1Rnd_Smoke_Grenade_shell",1]]],
 	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",1],["rhs_mag_M441_HE",6],["PRIMARY MAG",2]]]
+	,["<IDENTITY >>", ["GreekHead_A3_01", "WhiteHead_18", "WhiteHead_20", "WhiteHead_22", "WhiteHead_26", "WhiteHead_27", "RussianHead_1"], ["cup_d_male04_cz_acr","cup_d_male01_cz_acr","cup_d_male02_cz_acr","cup_d_male03_cz_acr","cup_d_male05_cz_acr"], ["Marcel Bartoš","Vítězslav Tobiška"]]
 ];
 
 kit_cz_pr_ftl = [
@@ -183,6 +186,7 @@ kit_cz_pr_ftl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",1],["PRIMARY MAG",7],["1Rnd_Smoke_Grenade_shell",1]]],
 	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",1],["rhs_mag_M441_HE",6],["PRIMARY MAG",2]]]
+	,["<IDENTITY >>", ["GreekHead_A3_01", "WhiteHead_18", "WhiteHead_20", "WhiteHead_22", "WhiteHead_26", "WhiteHead_27", "RussianHead_1"], ["cup_d_male04_cz_acr","cup_d_male01_cz_acr","cup_d_male02_cz_acr","cup_d_male03_cz_acr","cup_d_male05_cz_acr"], ["Marcel Bartoš","Vítězslav Tobiška"]]
 ];
 
 kit_cz_pr_mm = [
@@ -194,6 +198,7 @@ kit_cz_pr_mm = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",3],["PRIMARY MAG",12]]],
 	["<BACKPACK ITEMS >> ",[["HANDGUN MAG",2],["rhs_mag_m67",2],["SmokeShell",1],["PRIMARY MAG",5]]]
+	,["<IDENTITY >>", ["GreekHead_A3_01", "WhiteHead_18", "WhiteHead_20", "WhiteHead_22", "WhiteHead_26", "WhiteHead_27", "RussianHead_1"], ["cup_d_male04_cz_acr","cup_d_male01_cz_acr","cup_d_male02_cz_acr","cup_d_male03_cz_acr","cup_d_male05_cz_acr"], ["Marcel Bartoš","Vítězslav Tobiška"]]
 ];
 
 kit_cz_pr_sl = [
@@ -205,6 +210,7 @@ kit_cz_pr_sl = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["PRIMARY MAG",5],["HANDGUN MAG",5]]],
 	["<BACKPACK ITEMS >> ",[["PRIMARY MAG",6]]]
+	,["<IDENTITY >>", ["GreekHead_A3_01", "WhiteHead_18", "WhiteHead_20", "WhiteHead_22", "WhiteHead_26", "WhiteHead_27", "RussianHead_1"], ["cup_d_male04_cz_acr","cup_d_male01_cz_acr","cup_d_male02_cz_acr","cup_d_male03_cz_acr","cup_d_male05_cz_acr"], ["Marcel Bartoš","Vítězslav Tobiška"]]
 ];
 
 //VV
@@ -218,6 +224,7 @@ kit_cz_sj_pilot = [
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
 	["<VEST ITEMS >> ",[["HANDGUN MAG",15],["SmokeShellBlue",1],["SmokeShellGreen",1],["SmokeShellOrange",1],["SmokeShellPurple",1],["SmokeShellRed",1],["SmokeShellYellow",1]]],
 	["<BACKPACK ITEMS >> ",[["ACE_HandFlare_Red",1],["ACE_HandFlare_Green",1],["ACE_HandFlare_White",1],["ACE_HandFlare_Yellow",1],["HandGrenade",5],["rhs_mag_an_m8hc",3]]]
+	,["<IDENTITY >>", ["GreekHead_A3_01", "WhiteHead_18", "WhiteHead_20", "WhiteHead_22", "WhiteHead_26", "WhiteHead_27", "RussianHead_1"], ["cup_d_male04_cz_acr","cup_d_male01_cz_acr","cup_d_male02_cz_acr","cup_d_male03_cz_acr","cup_d_male05_cz_acr"], ["Marcel Bartoš","Vítězslav Tobiška"]]
 ];
 
 //British SAS
@@ -288,12 +295,19 @@ kit_uk_sas_sl = [
 ];
 
 kit_uk_sas_pilot = [
-	["<EQUIPEMENT >>  ","CUP_I_B_PMC_Unit_24","V_PlateCarrier1_blk","B_FieldPack_blk","CUP_H_SPH4_grey_visor",""],
+	["<EQUIPEMENT >>  ","CUP_I_B_PMC_Unit_24","CUP_V_PMC_IOTV_Black_Empty","CUP_B_AssaultPack_Black","CUP_H_SPH4_grey_visor","cwr3_b_facewear_balaclava_black"],
 	["<PRIMARY WEAPON >>  ","CUP_smg_Mac10_rail","CUP_30Rnd_45ACP_MAC10_M",["","","CUP_optic_AC11704_Black",""]],
 	["<LAUNCHER WEAPON >>  ","","",["","","",""]],
-	["<HANDGUN WEAPON >>  ","CUP_hgun_M9","CUP_15Rnd_9x19_M9",["","","",""]],
+	["<HANDGUN WEAPON >>  ","","",["","","",""]],
 	["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS],
 	["<UNIFORM ITEMS >> ",[UNIFORM_ITEMS]],
-	["<VEST ITEMS >> ",[["ACE_rope18",1],["HandGrenade",2],["SmokeShell",1],["SmokeShellGreen",1],["Chemlight_green",2],["ACE_HandFlare_White",3],["ACE_HandFlare_Yellow",2],["SmokeShellYellow",3],["rhs_mag_an_m8hc",1]]],
-	["<BACKPACK ITEMS >> ",[["CUP_HandGrenade_L109A1_HE",5],["PRIMARY MAG",9],["rhsusf_mag_15Rnd_9x19_FMJ",10]]]
+	["<VEST ITEMS >> ",[["PRIMARY MAG",6]]],
+	["<BACKPACK ITEMS >> ",[["ToolKit",1],["PRIMARY MAG",5],["SmokeShellYellow",2],["ACE_HandFlare_Yellow",2],["ACE_Chemlight_HiYellow",2]]]
+];
+
+cargo_kit_uk_puma = [
+	[["CUP_arifle_L85A2_G",1],["CUP_launch_FIM92Stinger_Loaded",1]],
+	[["CUP_30Rnd_556x45_Stanag",10],["SmokeShell",2],["SmokeShellOrange",2],["Chemlight_red",2],["CUP_20Rnd_762x51_HK417",10],["CUP_200Rnd_TE4_Red_Tracer_556x45_M249",60]],
+	[["ACE_rope27",2],["ToolKit",2],["ACE_plasmaIV_500",2],["ACE_salineIV_500",2],["ACE_epinephrine",10],["ACE_morphine",10],["ACE_bloodIV_500",2],["ACE_fieldDressing",20],["ACE_elasticBandage",20],["ACE_packingBandage",20],["ACE_quikclot",20]],
+	[]
 ];

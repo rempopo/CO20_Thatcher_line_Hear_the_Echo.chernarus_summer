@@ -4,7 +4,7 @@
  */
 // Enable or disable a synchronization of unit's identity (face, voice)
 // from applied kit (in multiplayer)
-dzn_gear_enableIdentitySync			= false;
+dzn_gear_enableIdentitySync			= true;
 
 // Plugins
 /*

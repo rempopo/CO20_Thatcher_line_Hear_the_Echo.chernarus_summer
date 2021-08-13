@@ -53,7 +53,7 @@
 	,["LIMITED","SAFE","YELLOW","WEDGE"]
 ]
 , [
-	"West" /* Zone Name */
+	"West_flank" /* Zone Name */
 	,"EAST",true, /* Side, is Active */ [],[]
 	/* Groups: */
 	,[
